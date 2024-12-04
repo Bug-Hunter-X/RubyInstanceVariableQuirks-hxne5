@@ -1,0 +1,1 @@
+This repository showcases an example of a subtle bug in Ruby related to direct manipulation of instance variables using `instance_variable_set`. The `bug.rb` file demonstrates the issue, and `bugSolution.rb` offers a safer approach using accessor methods.  Understanding this helps avoid unexpected behavior and maintain code integrity.
